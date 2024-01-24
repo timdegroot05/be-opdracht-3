@@ -3,6 +3,10 @@ table {
     box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.3);
     background-size: cover; 
     text-align: center;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    width: 100%;
+    
 }
 
 th { 
@@ -12,14 +16,12 @@ th {
 }
 
 td {
-    border-radius: 12px; 
     border: 1px solid #000;
     background: #B0C4DE; 
     box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.3); 
     text-align: center;
 }
 
-p {
-    border-radius: 10px; 
+p { 
     color: #4682B4; 
 }
