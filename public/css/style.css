@@ -1,27 +1,26 @@
 table {
-    background: #87CEEB;
+    background: #87eb94;
     box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.3);
     background-size: cover; 
     text-align: center;
     border: 1px solid #000;
     border-collapse: collapse;
     width: 100%;
-    
 }
 
 th { 
-    background: #4682B4; 
+    background: #62b446; 
     box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.3); 
     text-align: center;
 }
 
 td {
     border: 1px solid #000;
-    background: #B0C4DE; 
+    background: #b0deb5; 
     box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.3); 
     text-align: center;
 }
 
 p { 
-    color: #4682B4; 
+    color: #6ae288; 
 }
