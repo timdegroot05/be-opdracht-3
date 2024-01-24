@@ -1,27 +1,25 @@
-table{
-    border-radius: 30px;
-    background: #D99F6C;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-    background-size: contain;
+table {
+    background: #87CEEB;
+    box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.3);
+    background-size: cover; 
     text-align: center;
-    }
-    
-    th{
-    border-radius: 15px;
-    background: #A6633C;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+th { 
+    background: #4682B4; 
+    box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.3); 
     text-align: center;
-    }
-        
-    td{
-    border-radius: 15px;
+}
+
+td {
+    border-radius: 12px; 
     border: 1px solid #000;
-    background: #D9D9D9;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background: #B0C4DE; 
+    box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.3); 
     text-align: center;
-    } 
-    
-    p{
-    border-radius: 15px;
-    color: #A6633C;
-    }
+}
+
+p {
+    border-radius: 10px; 
+    color: #4682B4; 
+}
